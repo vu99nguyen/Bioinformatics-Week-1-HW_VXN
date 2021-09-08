@@ -1,0 +1,22 @@
+"$Schema" : "http://json-schema.org/draft-07/schema#" ,
+"$id" : "https://github.com/vu99nguyen/Bioinformatics-Week-1-HW_VXN/blob/main/README.md" ,
+"title" : "Genes" ,
+"Decription" : "5 genes of cricket family from NCBI", 
+"type": "object" ,
+"Properties": { 
+  "GeneName": {  
+    "description" : "Name of the gene" ,
+    "type" : "string" 
+  }, 
+  "Length" : { 
+    "description" : "length of the gene in basepairs" ,
+    "type" : "number" ,
+    "exclusiveMinimum" : 0
+  }, 
+  "accession number": { 
+    "decription" : "accession number as ID number", 
+    "type": "string" 
+  } 
+ }, 
+ "required": [ "GeneName" , "Length", "accession number" ] 
+}

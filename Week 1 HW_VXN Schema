@@ -19,5 +19,6 @@
     "type": "string" 
   } 
  }, 
- "required" : [ "Name", "Length", accession number" ]
+ "required" : [ "Name", "Length", accession number" ] 
+  "required" : ["data"]
 }

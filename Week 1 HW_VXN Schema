@@ -3,7 +3,7 @@
 "$id" : "https://github.com/vu99nguyen/Bioinformatics-Week-1-HW_VXN/blob/main/Week%201%20HW_VXN%20Schema" ,
 "title" : "Genes" ,
 "Decription" : "5 genes of cricket family from NCBI", 
-"type": "object" ,
+"type": "array" ,
 "Properties": { 
   "Name": {  
     "description" : "Name of the gene" ,
@@ -20,5 +20,4 @@
   } 
  }, 
  "required" : [ "Name", "Length", "accession number" ] 
-  "required" : ["data"]
 }

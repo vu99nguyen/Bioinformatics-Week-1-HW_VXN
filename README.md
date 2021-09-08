@@ -20,6 +20,6 @@
 	}, {
 		"Name": "Myrmophilellus pilipes isolate mun2-r1-3 cytochrome b (cytb) gene, partial cds; mitochondrial",
 		"Length": 632,
-		"accession number": "MN065059"
+		"accession number": "MN065059" 
 	}]
 }

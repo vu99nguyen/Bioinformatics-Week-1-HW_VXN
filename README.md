@@ -1,7 +1,6 @@
 # Bioinformatics-Week-1-HW_VXN 
 
-{
-	"data": [{
+                           [{
 		"Name": "Gryllus veletis mitochondrion, complete genome",
 		"Length": 15686,
 		"accession number": "NC_057053"
@@ -22,4 +21,4 @@
 		"Length": 632,
 		"accession number": "MN065059"
 	}]
-}
+
